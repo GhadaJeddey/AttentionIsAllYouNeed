@@ -2,29 +2,29 @@
 
 ### 
 
-1. # **Deepens Understanding**: Bridges the gap between theory and practice, helping you master cutting-edge concepts.
+1. ### **Deepens Understanding**: Bridges the gap between theory and practice, helping you master cutting-edge concepts.
 
-2. # **Strengthens Critical Thinking**: Improves analytical skills by dissecting algorithms and resolving ambiguities in research.
+2. ### **Strengthens Critical Thinking**: Improves analytical skills by dissecting algorithms and resolving ambiguities in research.
 
-3. # **Enhances Technical Skills**: Develops programming, debugging, and model-building expertise, especially in frameworks like PyTorch.
+3. ### **Enhances Technical Skills**: Develops programming, debugging, and model-building expertise, especially in frameworks like PyTorch.
 
-4. # **Fosters Innovation**: Encourages exploration of novel ideas and solutions not yet widely adopted in the industry.
+4. ### **Fosters Innovation**: Encourages exploration of novel ideas and solutions not yet widely adopted in the industry.
 
-5. # **Boosts Career Opportunities**: Adds impressive, real-world projects to your portfolio for interviews and networking.
+5. ### **Boosts Career Opportunities**: Adds impressive, real-world projects to your portfolio for interviews and networking.
 
-6. # **Builds Specialization**: Develops expertise in niche domains like GANs or NLP, making you stand out in your field.
+6. ### **Builds Specialization**: Develops expertise in niche domains like GANs or NLP, making you stand out in your field.
 
-7. # **Encourages Lifelong Learning**: Demonstrates your commitment to staying updated with the latest advancements.
+7. ### **Encourages Lifelong Learning**: Demonstrates your commitment to staying updated with the latest advancements.
 
-8. # **Enables Collaboration**: Sharing work on platforms like GitHub connects you with researchers and engineers worldwide.
+8. ### **Enables Collaboration**: Sharing work on platforms like GitHub connects you with researchers and engineers worldwide.
 
-9. # **Prepares for R\&D Roles**: Provides practical experience essential for innovation-focused roles in academia or industry.
+9. ### **Prepares for R\&D Roles**: Provides practical experience essential for innovation-focused roles in academia or industry.
 
-10. # **Enhances Problem-Solving**: Tackling incomplete or ambiguous research details improves adaptability and creativity.
+10. ### **Enhances Problem-Solving**: Tackling incomplete or ambiguous research details improves adaptability and creativity.
 
-11. # **Contributes to Academic Growth**: Lays the foundation for writing your own research papers or pursuing advanced degrees.
+11. ### **Contributes to Academic Growth**: Lays the foundation for writing your own research papers or pursuing advanced degrees.
 
-12. # **Adds Value to the Community**: Sharing implementations helps grow the global tech community and build your reputation.
+12. ### **Adds Value to the Community**: Sharing implementations helps grow the global tech community and build your reputation.
 
 13. # **Prepares for Competitions**: Builds skills to excel in AI hackathons or competitions, adding credibility to your resume.
 
@@ -75,7 +75,7 @@
 
 ---
 
-### **Paper 1: ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762)  : “One of the most important papers in AI today**
+# **Paper 1: ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762)  : “One of the most important papers in AI today**
 
 ### **From Basics to Mastery: Building and Optimizing Transformers**
 
@@ -113,7 +113,7 @@
 
 ### 
 
-### **Paper 1: "Attention Is All You Need"**
+## **Paper 1: "Attention Is All You Need"**
 
 The **"Attention Is All You Need"** paper introduced the **Transformer** architecture, which has since revolutionized the field of **Natural Language Processing (NLP)**. The model relies entirely on **self-attention mechanisms** instead of recurrence (RNNs) or convolution (CNNs), enabling **parallelization** and significantly improving the performance of NLP tasks like translation and text generation.
 
@@ -372,7 +372,7 @@ By the end of this structured plan, you will have:
 ✅ **Fine-tuned a pre-trained Transformer using Hugging Face.**  
 ✅ **Applied it to real-world NLP tasks.**
 
-### **Paper 2: "Unsupervised Representation Learning with deep Convolutional GANs (DCGAN)"**
+# **Paper 2: "Unsupervised Representation Learning with deep Convolutional GANs (DCGAN)"**
 
 The paper focuses on **Unsupervised Learning** using **Generative Adversarial Networks (GANs)**, specifically **Deep Convolutional GANs (DCGANs)**. DCGANs aim to generate high-quality, realistic images from random noise, by learning a useful representation of the underlying data distribution through unsupervised training. Unlike supervised learning, it doesn't require labeled data, making it especially useful in scenarios where acquiring labeled data is expensive or time-consuming.
 
